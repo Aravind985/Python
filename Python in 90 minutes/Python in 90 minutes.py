@@ -10,7 +10,10 @@ print('Hello World')
 age = 26
 first_name = 'Shivika'
 gpa = 3.99
-
+aravund----------------------------
+oooooooooooooooo
+-------------
+---------------
 # here we can see three different types of data stored in variables: an integer, a string, and a float.
 # You do not have to declare the data type stored in each variable. Python does that for you.
 # You can see what type of data is in a variable using the type() function
